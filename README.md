@@ -1,16 +1,20 @@
-### Hi there 👋
+# TaggSwaggs
 
-<!--
-**TaggsSwaggs/TaggsSwaggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Pofessional Gamer
+```bash
+"I have hit plat in the following games: Bean Battles, Fall Guys"
+```
+#### 🐒 I Like Monke 🐒
+#### Yes I am your dad, I'm still getting milk, Fry's and Walmart is out, I'm going to Basha's
 
-Here are some ideas to get you started:
+## Discord
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Discord Cool, But Not As Cool As Me
+
+```bash
+FunkyMonkey#2248
+```
+
+
+## Very Cool Drift Game
+[Click Me!](https://realziez.github.io/DriftR/)
